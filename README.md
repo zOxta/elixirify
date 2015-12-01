@@ -23,7 +23,7 @@ $ npm install
 ```sh
 $ npm install vue vue-resource lodash isjs moment
 ```
-**Note**: if you are not going to use the app started in `app.js` then you can skip step 4, then clear `app.js`. Otherwise, you will get errors when running gulp.
+**Note**: if you are not going to use the starter app in `app.js` then you can skip step 4, then clear `app.js`. Otherwise, you will get errors when running gulp.
 
 **5.** If you do not have `gulp` globally installed, you can install it by:
 ```sh
